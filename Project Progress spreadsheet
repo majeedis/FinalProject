@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>
+Project Progress | Sigma Center</title>
+<style type='text/css'></style><meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="author" content="VibeThemes">
+                <link rel="shortcut icon" href="" />
+                <link rel="icon" type="image/png" href="">
+                <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+                <!--[if lt IE 9]>
+                  <script src="http://www.sigma-center.net/wp-content/themes/wplms/js/html5shiv.js"></script>
+                  <script src="http://www.sigma-center.net/wp-content/themes/wplms/js/respond.min.js"></script>
+                <![endif]--><script type="javascript/text">
+                NProgress.start();
+             </script>                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Open+Sans:400', 'Roboto+Condensed:300,400']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                    <link rel="alternate" type="application/rss+xml" title="Sigma Center &raquo; Feed" href="http://www.sigma-center.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sigma Center &raquo; Comments Feed" href="http://www.sigma-center.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sigma-center.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.sigma-center.net/wp-includes/css/dashicons.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://www.sigma-center.net/wp-includes/css/admin-bar.min.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://www.sigma-center.net/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/bbpress.css?ver=2.5.7-5693' type='text/css' media='screen' />
+<link rel='stylesheet' id='bp-admin-bar-css'  href='http://www.sigma-center.net/wp-content/plugins/buddypress/bp-core/css/admin-bar.min.css?ver=2.2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css-css'  href='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/css/fonticons.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css-css'  href='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/css/magnific-popup.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animation-css-css'  href='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/css/animation.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.sigma-center.net/wp-includes/js/thickbox/thickbox.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css-css'  href='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/css/shortcodes.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wplms-customizer-css-css'  href='http://www.sigma-center.net/wp-content/plugins/wplms-customizer/css/custom.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-course-css-css'  href='http://www.sigma-center.net/wp-content/plugins/vibe-course-module/includes/css/course_template.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twitter_bootstrap-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/bootstrap.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='search-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/chosen.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buddypress-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/buddypress.css?ver=0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bbpress-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/bbpress.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/style.css?ver=0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/css/woocommerce.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css-css'  href='http://www.sigma-center.net/wp-content/themes/wplms/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-fee-adminbar-css'  href='http://www.sigma-center.net/wp-content/plugins/wplms-front-end/front-end-editor/css/wp-fee-adminbar.css?ver=0.9.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.sigma-center.net/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.7.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/buddypress/bp-core/js/confirm.min.js?ver=2.2.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.sigma-center.net\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.8'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/wplms-customizer/js/custom.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/bootstrap.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/nprogress.js?ver=4.4.2'></script>
+<link rel='https://api.w.org/' href='http://www.sigma-center.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sigma-center.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sigma-center.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+<meta name="generator" content="WooCommerce 2.3.8" />
+<link rel="canonical" href="http://www.sigma-center.net/project-progress/" />
+<link rel='shortlink' href='http://www.sigma-center.net/?p=2045' />
+<link rel="alternate" type="application/json+oembed" href="http://www.sigma-center.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.sigma-center.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'http://www.sigma-center.net/wp-admin/admin-ajax.php';</script>
+
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.sigma-center.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.sigma-center.net/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<style>#headertop,.pagesidebar,#vibe_bp_login,#pmpro_confirmation_table thead,
+                            .pmpro_checkout thead th,#pmpro_levels_table thead,.boxed #headertop .container{background-color:#0769bf;}header,.sidemenu li.active a, .sidemenu li a:hover,.note-tabs,
+                            header #searchform input[type="text"],.boxed header .container,.reset_answer:hover{background-color:#2b7abf;}footer,
+                                          .bbp-header,
+                                          .bbp-footer,
+                                          .boxed footer .container,
+                                          footer .form_field, 
+                                          footer .input-text, 
+                                          footer .ninja-forms-field, 
+                                          footer .wpcf7 input.wpcf7-text, 
+                                          footer #s,
+                                          footer .chosen-container.chosen-with-drop .chosen-drop,
+                                          footer .chosen-container-active.chosen-with-drop .chosen-single, 
+                                          footer .chosen-container-single .chosen-single{background-color:#00b3ba;}#footerbottom,
+                            .boxed #footerbottom .container{background-color:#00545e;}#vibe_bp_login:after{
+                border-color: transparent transparent #0769bf transparent;
+              }footer .form_field, 
+                            footer .input-text, 
+                            footer .ninja-forms-field, 
+                            footer .wpcf7 input.wpcf7-text, 
+                            footer #s,
+                            footer .chosen-container.chosen-with-drop .chosen-drop,
+                            footer .chosen-container-active.chosen-with-drop .chosen-single, 
+                            footer .chosen-container-single .chosen-single{border-color: #00545e;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page page-id-2045 page-template-default logged-in admin-bar no-customize-support wpb-js-composer js-comp-ver-4.7.4 vc_responsive">
+<div id="global" class="global">
+    <div class="pagesidebar">
+        <div class="sidebarcontent">    
+            <h2 id="sidelogo">
+            <a href="http://www.sigma-center.net/"><img src="http://www.sigma-center.net/wp-content/uploads/2016/02/aigma-center-logo.png" alt="Sigma Center" /></a>
+            </h2>
+            <p style="padding:20px 0 10px;color:#FFF;text-align:center;">Setup Menus in Admin Panel</p>        </div>
+        <a class="sidebarclose"><span></span></a>
+    </div>  
+    <div class="pusher">
+                <div id="headertop" class="fix">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-3">
+                       <a href="http://www.sigma-center.net/" class="homeicon"><img src="http://www.sigma-center.net/wp-content/uploads/2016/02/aigma-center-logo.png" alt="Sigma Center" /></a> 
+                    </div>
+                    <div class="col-md-8 col-sm-9">
+                                            <ul class="topmenu">
+                            <li><a href="http://www.sigma-center.net/members/admin/" class="smallimg vbplogin"><img src="http://www.sigma-center.net/wp-content/themes/wplms/images/avatar.jpg" class="avatar user-1-avatar avatar-460 photo" width="460" height="460" alt="Profile picture of admin" />admin</a></li>
+                                                    </ul>
+                    <ul id="menu-top-menu" class="topmenu"><li id="menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2043"><a href="http://www.sigma-center.net/all-courses/">Courses</a></li>
+<li id="menu-item-2042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2042"><a href="http://www.sigma-center.net/shop/">Shop</a></li>
+<li id="menu-item-2044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2044"><a href="http://www.sigma-center.net/cart/">Cart</a></li>
+</ul>                    </div>
+                    <div id="vibe_bp_login">
+                    <div class="widget vibe-bp-login">				<div id="sidebar-me">
+					<div id="bpavatar">
+						<img src="http://www.sigma-center.net/wp-content/themes/wplms/images/avatar.jpg" class="avatar user-1-avatar avatar-460 photo" width="460" height="460" alt="Profile picture of admin" />					</div>
+					<ul>
+						<li id="username"><a href="http://www.sigma-center.net/members/admin/">admin</a></li>
+						<li><a href="http://www.sigma-center.net/members/admin/profile/" title="View profile">View profile</a></li>
+						<li id="vbplogout"><a href="http://www.sigma-center.net/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F&amp;_wpnonce=96edfb58a7&amp;redirect_to=http%3A%2F%2Fwww.sigma-center.net" id="destroy-sessions" rel="nofollow" class="logout" title="Log Out"><i class="icon-close-off-2"></i> LOGOUT</a></li>
+						<li id="admin_panel_icon"><a href="http://www.sigma-center.net/wp-admin/" title="Access admin panel"><i class="icon-settings-1"></i></a>					  </li>
+					</ul>	
+					<ul>
+            <li><a href="http://www.sigma-center.net/members/admin/dashboard"><i class="icon-meter"></i>Dashboard</a></li><li><a href="http://www.sigma-center.net/members/admin/course"><i class="icon-book-open-1"></i>Courses</a></li><li><a href="http://www.sigma-center.net/members/admin/course/course-stats"><i class="icon-analytics-chart-graph"></i>Stats</a></li><li><a href="http://www.sigma-center.net/members/admin/messages"><i class="icon-letter-mail-1"></i>Inbox</a></li><li><a href="http://www.sigma-center.net/members/admin/notifications"><i class="icon-exclamation"></i>Notifications</a></li><li><a href="http://www.sigma-center.net/members/admin/settings"><i class="icon-settings"></i>Settings</a></li>					</ul>
+				
+								</div>
+				</div>                   </div>
+                </div>
+            </div>
+        </div>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 col-xs-12">
+                        <h2 id="logo">                        
+                            <a href="http://www.sigma-center.net/"><img src="http://www.sigma-center.net/wp-content/uploads/2016/02/aigma-center-logo.png" alt="Sigma Center" /></a>
+                        </h2>                    </div>
+                    <div class="col-md-9 col-sm-9">
+                        <div id="searchicon"><i class="icon-search-2"></i></div>
+                        <div id="searchdiv">
+                            <form role="search" method="get" id="searchform" action="http://www.sigma-center.net/">
+                                <div><label class="screen-reader-text" for="s">Search for:</label>
+                                    <input type="text" value="" name="s" id="s" placeholder="Hit enter to search..." />
+                                                                        <input type="submit" id="searchsubmit" value="Search" />
+                                </div>
+                            </form>
+                        </div>
+                        <nav class="menu-course-categories-container"><ul id="menu-course-categories" class="menu"><li id="main-menu-item-2051" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.sigma-center.net/proposal/"><strong>Proposal</strong></a></li>
+<li id="main-menu-item-2052" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.sigma-center.net/project-progress-document/"><strong>Project Progress Document</strong></a></li>
+<li id="main-menu-item-2053" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2045 current_page_item"><a href="http://www.sigma-center.net/project-progress/"><strong>Project Progress</strong></a></li>
+</ul></nav> 
+                    </div>
+                    <a id="trigger">
+                        <span class="lines"></span>
+                    </a>
+                </div>
+            </div>
+        </header>
+<section id="title">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 col-sm-8">
+                <div class="pagetitle">
+                    <h1>Project Progress</h1>
+                                    </div>
+            </div>
+            <div class="col-md-3 col-sm-4">
+                <ul class="breadcrumbs"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a rel="v:url" property="v:title" itemprop="url" href="http://www.sigma-center.net" ><span itemprop="name">Home</span></a></li><li class="current"><span itemprop="title">Project Progress</span></li></ul>            </div>
+        </div>
+    </div>
+</section>
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="no content">
+                    <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Delius;font-weight:400;font-style:normal" class="vc_custom_heading">Progress Report</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="136" />
+<col width="255" />
+<col width="92" />
+<col width="88" />
+<col width="51" />
+<col width="82" />
+<col width="76" />
+<col width="122" />
+<col width="227" />
+<col width="65" />
+<col width="100" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Task List&quot;&#093;">Task List</td>
+<td></td>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Estimate (Days)&quot;&#093;">
+<div>Estimate (Days)</div>
+</td>
+<td colspan="2" rowspan="1" data-sheets-value="&#091;null,2,&quot;Progress&quot;&#093;">Progress</td>
+<td colspan="2" rowspan="1" data-sheets-value="&#091;null,2,&quot;Completed&quot;&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">Completed</td>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Decision&quot;&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">
+<div>Decision</div>
+</td>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Source&quot;&#093;">
+<div>Source</div>
+</td>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Costs&quot;&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">
+<div>Costs</div>
+</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Main Task&quot;&#093;">Main Task</td>
+<td data-sheets-value="&#091;null,2,&quot;Sub Task&quot;&#093;">Sub Task</td>
+<td data-sheets-value="&#091;null,2,&quot;START&quot;&#093;">START</td>
+<td data-sheets-value="&#091;null,2,&quot;%&quot;&#093;">%</td>
+<td data-sheets-value="&#091;null,2,&quot;Minutes&quot;&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">Minutes</td>
+<td data-sheets-value="&#091;null,2,&quot;END&quot;&#093;">END</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Research Domain&quot;&#093;">
+<div>Research Domain</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Finding a Suitable Domain&quot;&#093;">Finding a Suitable Domain</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-numberformat="&#091;null,5&#093;"></td>
+<td data-sheets-value="&#091;null,2,&quot;https://domainr.com/&quot;&#093;"><a class="in-cell-link" href="https://domainr.com/" target="_blank">https://domainr.com/</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Finding a Suitable Hosting &amp; Comparing Options&quot;&#093;">Finding a Suitable Hosting &amp; Comparing Options</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,40&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">40</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-numberformat="&#091;null,5&#093;"></td>
+<td data-sheets-value="&#091;null,2,&quot;http://www.minterest.org/web-hosting-comparison/&quot;&#093;"><a class="in-cell-link" href="http://www.minterest.org/web-hosting-comparison/" target="_blank">http://www.minterest.org/web-hosting-comparison/</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Hosting&quot;&#093;">
+<div>Hosting</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Register Domain&quot;&#093;">Register Domain</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,15&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">15</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-numberformat="&#091;null,5&#093;"></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,15&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$15.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Register Hosting Server&quot;&#093;">Register Hosting Server</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">0%</td>
+<td data-sheets-value="&#091;null,3,null,15&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">15</td>
+<td data-sheets-value="&#091;null,2,&quot;Pending&quot;&#093;">Pending</td>
+<td></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;" data-sheets-formula="=5*12">$60.00</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Research Technology&quot;&#093;">
+<div>Research Technology</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Deciding on Static vs Dynamic&quot;&#093;">Deciding on Static vs Dynamic</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Dynamic Website&quot;&#093;">Dynamic Website</td>
+<td data-sheets-value="&#091;null,2,&quot;http://www.codeconquest.com/website/static-vs-dynamic-websites/&quot;&#093;"><a class="in-cell-link" href="http://www.codeconquest.com/website/static-vs-dynamic-websites/" target="_blank">http://www.codeconquest.com/website/static-vs-dynamic-websites/</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Choosing a CMS - WordPress/jhoomla/drupal and others&quot;&#093;">Choosing a CMS &#8211; WordPress/jhoomla/drupal and others</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,50&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">50</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Wordpress CMS&quot;&#093;">WordPress CMS</td>
+<td data-sheets-value="&#091;null,2,&quot;https://support.rackspace.com/how-to/cms-comparison-drupal-joomla-and-wordpress/&quot;&#093;"><a class="in-cell-link" href="https://support.rackspace.com/how-to/cms-comparison-drupal-joomla-and-wordpress/" target="_blank">https://support.rackspace.com/how-to/cms-comparison-drupal-joomla-and-wordpress/</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="7" data-sheets-value="&#091;null,2,&quot;Website Setup Local Computer&quot;&#093;">
+<div>Website Setup Local Computer</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Creating a Local Server to Create website - WAMP SERVER&quot;&#093;">Creating a Local Server to Create website &#8211; WAMP SERVER</td>
+<td data-sheets-value="&#091;null,3,null,2&#093;">2</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,120&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">120</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Wamp on Windows&quot;&#093;">Wamp on Windows</td>
+<td data-sheets-value="&#091;null,2,&quot;https://www.youtube.com/watch?v=kVc_9vAO7oI&quot;&#093;"><a class="in-cell-link" href="https://www.youtube.com/watch?v=kVc_9vAO7oI" target="_blank">https://www.youtube.com/watch?v=kVc_9vAO7oI</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Installing WordPress on localhost (Wamp Server) - Create a localhost Database&quot;&#093;">Installing WordPress on localhost (Wamp Server) &#8211; Create a localhost Database</td>
+<td data-sheets-value="&#091;null,3,null,2&#093;">2</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Wordpress on Localhost&quot;&#093;">WordPress on Localhost</td>
+<td data-sheets-value="&#091;null,2,&quot;https://www.youtube.com/watch?v=MHMV6tUuadA&quot;&#093;"><a class="in-cell-link" href="https://www.youtube.com/watch?v=MHMV6tUuadA" target="_blank">https://www.youtube.com/watch?v=MHMV6tUuadA</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Wordpress on localhost - Download wordpress open source code&quot;&#093;">WordPress on localhost &#8211; Download wordpress open source code</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;https://wordpress.org&quot;&#093;"><a class="in-cell-link" href="https://wordpress.org" target="_blank">https://wordpress.org</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Wordpress on localhos - Install WordPress on Local machine &quot;&#093;">WordPress on localhos &#8211; Install WordPress on Local machine</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Learning to Use WordPress&quot;&#093;">Learning to Use WordPress</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42398&#093;" data-sheets-numberformat="&#091;null,5&#093;">29/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,3,null,42398&#093;" data-sheets-numberformat="&#091;null,5&#093;">29/01/2016</td>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;https://www.youtube.com/watch?v=CUHlWbDwCo8&amp;index=6&amp;list=PLC5E59DD6D84D34DC&quot;&#093;"><a class="in-cell-link" href="https://www.youtube.com/watch?v=CUHlWbDwCo8&amp;index=6&amp;list=PLC5E59DD6D84D34DC" target="_blank">https://www.youtube.com/watch?v=CUHlWbDwCo8&amp;index=6&amp;list=PLC5E59DD6D84D34DC</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Finding The Functionalality Theme/Plugin&quot;&#093;">Finding The Functionalality Theme/Plugin</td>
+<td data-sheets-value="&#091;null,3,null,2&#093;">2</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42397&#093;" data-sheets-numberformat="&#091;null,5&#093;">28/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;WPLMS Platform&quot;&#093;">WPLMS Platform</td>
+<td data-sheets-value="&#091;null,2,&quot;http://themeforest.net/&quot;&#093;"><a class="in-cell-link" href="http://themeforest.net/" target="_blank">http://themeforest.net/</a></td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$60.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Adding content on Website on Local Computer&quot;&#093;">Adding content on Website on Local Computer</td>
+<td data-sheets-value="&#091;null,3,null,4&#093;">4</td>
+<td data-sheets-value="&#091;null,3,null,42398&#093;" data-sheets-numberformat="&#091;null,5&#093;">29/01/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,240&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;" data-sheets-formula="=4*60">240</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="2" data-sheets-value="&#091;null,2,&quot;Shifting Website to Live Site&quot;&#093;">
+<div>Shifting Website to Live Site</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Creating a installation file LOCALOST &gt;&gt; LIVE SITE&quot;&#093;">Creating a installation file LOCALOST &gt;&gt; LIVE SITE</td>
+<td data-sheets-value="&#091;null,3,null,2&#093;">2</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,30&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">30</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Duplicator Plugin&quot;&#093;">Duplicator Plugin</td>
+<td data-sheets-value="&#091;null,2,&quot;https://www.youtube.com/watch?v=D07RAt-IkMk&quot;&#093;"><a class="in-cell-link" href="https://www.youtube.com/watch?v=D07RAt-IkMk" target="_blank">https://www.youtube.com/watch?v=D07RAt-IkMk</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Sending Files to Livesite&quot;&#093;">Sending Files to Livesite</td>
+<td data-sheets-value="&#091;null,3,null,2&#093;">2</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Using FTP&quot;&#093;">Using FTP</td>
+<td data-sheets-value="&#091;null,2,&quot;https://filezilla-project.org/&quot;&#093;"><a class="in-cell-link" href="https://filezilla-project.org/" target="_blank">https://filezilla-project.org/</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="1" rowspan="6" data-sheets-value="&#091;null,2,&quot;Setting Website in Live Site&quot;&#093;">
+<div>Setting Website in Live Site</div>
+</td>
+<td data-sheets-value="&#091;null,2,&quot;Create Empty Database on Server&quot;&#093;">Create Empty Database on Server</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,10&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">10</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Use PhpmyAdmin&quot;&#093;">Use PhpmyAdmin</td>
+<td data-sheets-value="&#091;null,2,&quot;https://www.youtube.com/watch?v=n7c5zMk8cx4&quot;&#093;"><a class="in-cell-link" href="https://www.youtube.com/watch?v=n7c5zMk8cx4" target="_blank">https://www.youtube.com/watch?v=n7c5zMk8cx4</a></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Create user to Access that database&quot;&#093;">Create user to Access that database</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,15&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">15</td>
+<td data-sheets-value="&#091;null,3,null,42403&#093;" data-sheets-numberformat="&#091;null,5&#093;">03/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Use PhpmyAdmin&quot;&#093;">Use PhpmyAdmin</td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Visit installation URL to install WordPress site on Server&quot;&#093;">Visit installation URL to install WordPress site on Server</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42404&#093;" data-sheets-numberformat="&#091;null,5&#093;">04/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,120&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">120</td>
+<td data-sheets-value="&#091;null,3,null,42404&#093;" data-sheets-numberformat="&#091;null,5&#093;">04/02/2016</td>
+<td></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Test Website&quot;&#093;">Test Website</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42405&#093;" data-sheets-numberformat="&#091;null,5&#093;">05/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,3,null,42405&#093;" data-sheets-numberformat="&#091;null,5&#093;">05/02/2016</td>
+<td></td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Installing Plugin Buddypress to Add Social media Functionality&quot;&#093;">Installing Plugin Buddypress to Add Social media Functionality</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42406&#093;" data-sheets-numberformat="&#091;null,5&#093;">06/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,10&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">10</td>
+<td data-sheets-value="&#091;null,3,null,42405&#093;" data-sheets-numberformat="&#091;null,5&#093;">05/02/2016</td>
+<td></td>
+<td></td>
+<td data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;"></td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Installing Sampal Data on Website 13 Posts + 45 pages + 302 Coments&quot;&#093;">Installing Sampal Data on Website 13 Posts + 45 pages + 302 Coments</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42406&#093;" data-sheets-numberformat="&#091;null,5&#093;">06/02/2016</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;" data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;">100%</td>
+<td data-sheets-value="&#091;null,3,null,20&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">20</td>
+<td data-sheets-value="&#091;null,3,null,42406&#093;" data-sheets-numberformat="&#091;null,5&#093;">06/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;One Click Install in Admin&quot;&#093;">One Click Install in Admin</td>
+<td></td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Delius;font-weight:400;font-style:normal" class="vc_custom_heading">Issues Encountered</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="136" />
+<col width="255" />
+<col width="92" />
+<col width="88" />
+<col width="51" />
+<col width="82" />
+<col width="76" />
+<col width="122" />
+<col width="227" />
+<col width="65" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Issues&quot;&#093;">Issues</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue Description&quot;&#093;">Issue Description</td>
+<td data-sheets-value="&#091;null,2,&quot;Days&quot;&#093;">Days</td>
+<td data-sheets-value="&#091;null,2,&quot;Detected&quot;&#093;">Detected</td>
+<td data-sheets-value="&#091;null,2,&quot;Type&quot;&#093;">Type</td>
+<td data-sheets-value="&#091;null,2,&quot;Time&quot;&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">Time</td>
+<td data-sheets-value="&#091;null,2,&quot;Solved&quot;&#093;">Solved</td>
+<td data-sheets-value="&#091;null,2,&quot;Cause&quot;&#093;">Cause</td>
+<td data-sheets-value="&#091;null,2,&quot;Solution&quot;&#093;">Solution</td>
+<td data-sheets-value="&#091;null,2,&quot;Cost&quot;&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">Cost</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Issues&quot;&#093;">Issues</td>
+<td data-sheets-value="&#091;null,2,&quot;Internal Server Error&quot;&#093;">Internal Server Error</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue&quot;&#093;">Issue</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,3,null,42395&#093;" data-sheets-numberformat="&#091;null,5&#093;">26/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Accedental deletion of .htaccess file&quot;&#093;">Accedental deletion of .htaccess file</td>
+<td data-sheets-value="&#091;null,2,&quot;Talked with customer care team of hosting provider to solve the issue.&quot;&#093;">Talked with customer care team of hosting provider to solve the issue.</td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+</tr>
+<tr>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;msvcr100.dll missing error while Installing WAMP in windows&quot;&#093;">msvcr100.dll missing error while Installing WAMP in windows</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue&quot;&#093;">Issue</td>
+<td data-sheets-value="&#091;null,3,null,120&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">120</td>
+<td data-sheets-value="&#091;null,3,null,42396&#093;" data-sheets-numberformat="&#091;null,5&#093;">27/01/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;msvcr100.dll missing&quot;&#093;">msvcr100.dll missing</td>
+<td data-sheets-value="&#091;null,2,&quot; Msvcr100.dll is a part of Microsoft Visual Studio Insalling New Visual Studio fixed the issue&quot;&#093;">Msvcr100.dll is a part of Microsoft Visual Studio Insalling New Visual Studio fixed the issue</td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+</tr>
+<tr>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;Website Very slow - Cause Unknown : Solution - Not yet&quot;&#093;">Website Very slow &#8211; Cause Unknown : Solution &#8211; Not yet</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42406&#093;" data-sheets-numberformat="&#091;null,5&#093;">06/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue&quot;&#093;">Issue</td>
+<td data-sheets-value="&#091;null,3,null,60&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">60</td>
+<td data-sheets-value="&#091;null,2,&quot;Not Yet&quot;&#093;">Not Yet</td>
+<td data-sheets-value="&#091;null,2,&quot; - &quot;&#093;">&#8211;</td>
+<td data-sheets-value="&#091;null,2,&quot; - &quot;&#093;">&#8211;</td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+</tr>
+<tr>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;Fatel Error: Allowed memory size exausted&quot;&#093;">Fatel Error: Allowed memory size exausted</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42407&#093;" data-sheets-numberformat="&#091;null,5&#093;">07/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue&quot;&#093;">Issue</td>
+<td data-sheets-value="&#091;null,3,null,20&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">20</td>
+<td data-sheets-value="&#091;null,3,null,42411&#093;" data-sheets-numberformat="&#091;null,5&#093;">11/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Plugin use more memory than allocated&quot;&#093;">Plugin use more memory than allocated</td>
+<td data-sheets-value="&#091;null,2,&quot;increased the memory limit to 64M. We had to hire a web admin to help us in fizing the issue&quot;&#093;">increased the memory limit to 64M. We had to hire a web admin to help us in fizing the issue</td>
+<td data-sheets-value="&#091;null,3,null,20&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$20.00</td>
+</tr>
+<tr>
+<td></td>
+<td data-sheets-value="&#091;null,2,&quot;Could not upload any image in WordPress, and if the upload goes through it will show images in the media library as broken.&quot;&#093;">Could not upload any image in WordPress, and if the upload goes through it will show images in the media library as broken.</td>
+<td data-sheets-value="&#091;null,3,null,1&#093;">1</td>
+<td data-sheets-value="&#091;null,3,null,42412&#093;" data-sheets-numberformat="&#091;null,5&#093;">12/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;Issue&quot;&#093;">Issue</td>
+<td data-sheets-value="&#091;null,3,null,100&#093;" data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;">100</td>
+<td data-sheets-value="&#091;null,3,null,42412&#093;" data-sheets-numberformat="&#091;null,5&#093;">12/02/2016</td>
+<td data-sheets-value="&#091;null,2,&quot;issue is most commonly caused by wrong file permissions.&quot;&#093;">issue is most commonly caused by wrong file permissions.</td>
+<td data-sheets-value="&#091;null,2,&quot;Researched internet and found video https://www.youtube.com/watch?v=rRrG3K4vjsk to solve the issue&quot;&#093;">Researched internet and found video https://www.youtube.com/watch?v=rRrG3K4vjsk to solve the issue</td>
+<td data-sheets-value="&#091;null,3,null,0&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;">$0.00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;"></td>
+<td data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;"></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Delius;font-weight:400;font-style:normal" class="vc_custom_heading">Challenges Encountered</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="255" />
+<col width="92" />
+<col width="88" />
+<col width="51" />
+<col width="82" />
+<col width="76" />
+<col width="122" />
+<col width="227" />
+<col width="65" />
+<col width="100" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Challanges in Project&quot;&#093;">Challanges in Project</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;My Experience&quot;&#093;">My Experience</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Choosing the Platform to Platform to built website&quot;&#093;">Choosing the Platform to Platform to built website</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;I had difficulty in deciding what platform to choose from. There are such large number of options that it is very difficult to understand what platform will be the most efffective. &quot;&#093;">I had difficulty in deciding what platform to choose from. There are such large number of options that it is very difficult to understand what platform will be the most efffective.</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Wrong Estimates&quot;&#093;">Wrong Estimates</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;Estimates prepared in an excel sheet were way off. I had dissiculty in judging the scope of each task. I always over estimated the scope.&quot;&#093;">Estimates prepared in an excel sheet were way off. I had dissiculty in judging the scope of each task. I always over estimated the scope.</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Condicting Research&quot;&#093;">Condicting Research</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;With the ammount of information available over t he internet it was very hard to judge what information will be helpful. Only after tiral and error I was able to judge the Validity of information. &quot;&#093;">With the ammount of information available over t he internet it was very hard to judge what information will be helpful. Only after tiral and error I was able to judge the Validity of information.</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Losing Focus&quot;&#093;">Losing Focus</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;While working it was easy to get sidetracked and loose what was going on. A lot of time was getting wasted and self management was a big challange. &quot;&#093;">While working it was easy to get sidetracked and loose what was going on. A lot of time was getting wasted and self management was a big challange.</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Jummping to Decisions&quot;&#093;">Jummping to Decisions</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;Once you ondertake sucha project it is imperetive to stay objective about decisions. ANy new implementation needs to be carefully planned and executes. One small lapse creates unessary issues later in the project.&quot;&#093;">Once you ondertake sucha project it is imperetive to stay objective about decisions. ANy new implementation needs to be carefully planned and executes. One small lapse creates unessary issues later in the project.</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Dealing with the stress &amp; Frustration&quot;&#093;">Dealing with the stress &amp; Frustration</td>
+<td colspan="9" rowspan="1" data-sheets-value="&#091;null,2,&quot;Sometimes not having the right information can cause strss &amp; frustration. I faced this issue regularly while completing the project as sometime I did not have the cirect information to proceed and was not able to research the solutions from the internet. &quot;&#093;">Sometimes not having the right information can cause strss &amp; frustration. I faced this issue regularly while completing the project as sometime I did not have the cirect information to proceed and was not able to research the solutions from the internet.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td data-sheets-numberformat="&#091;null,3,&quot;0%&quot;,1&#093;"></td>
+<td data-sheets-numberformat="&#091;null,2,&quot;0&quot;,1&#093;"></td>
+<td></td>
+<td></td>
+<td></td>
+<td data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><h2 style="text-align: left;font-family:Delius;font-weight:400;font-style:normal" class="vc_custom_heading">Project Cost Estimation</h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="136" />
+<col width="255" />
+<col width="92" /></colgroup>
+<tbody>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Stats&quot;&#093;">Stats</td>
+<td data-sheets-value="&#091;null,2,&quot;Value&quot;&#093;">Value</td>
+<td data-sheets-value="&#091;null,2,&quot;Units&quot;&#093;">Units</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Estimated Time in Hours in working 2-3 Hours a day&quot;&#093;">Estimated Time in Hours in working 2-3 Hours a day</td>
+<td data-sheets-value="&#091;null,3,null,101.5&#093;" data-sheets-numberformat="&#091;null,0&#093;" data-sheets-formula="=sum(R&#091;-39&#093;C&#091;1&#093;:R&#091;-19&#093;C&#091;1&#093;)*3.5">101.5</td>
+<td data-sheets-value="&#091;null,2,&quot;Hours&quot;&#093;">Hours</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Actual Time taken in Hours&quot;&#093;">Actual Time taken in Hours</td>
+<td data-sheets-value="&#091;null,3,null,17.916666666666668&#093;" data-sheets-numberformat="&#091;null,2,&quot;0.0&quot;,1&#093;" data-sheets-formula="=sum(R&#091;-40&#093;C&#091;4&#093;:R&#091;-20&#093;C&#091;4&#093;)/60">17.9</td>
+<td data-sheets-value="&#091;null,2,&quot;Hours&quot;&#093;" data-sheets-numberformat="&#091;null,2,&quot;0.0&quot;,1&#093;">Hours</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Actual Days Worked&quot;&#093;">Actual Days Worked</td>
+<td data-sheets-value="&#091;null,3,null,11&#093;" data-sheets-numberformat="&#091;null,0&#093;" data-sheets-formula="=R&#091;-21&#093;C&#091;5&#093;-R&#091;-41&#093;C&#091;5&#093;">11</td>
+<td data-sheets-value="&#091;null,2,&quot;Days&quot;&#093;">Days</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Number of Issues Encountered&quot;&#093;">Number of Issues Encountered</td>
+<td data-sheets-value="&#091;null,3,null,5&#093;">5</td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Time Spent in Solving Issues&quot;&#093;">Time Spent in Solving Issues</td>
+<td data-sheets-value="&#091;null,3,null,6&#093;" data-sheets-numberformat="&#091;null,0&#093;" data-sheets-formula="=sum(R&#091;-21&#093;C&#091;4&#093;:R&#091;-17&#093;C&#091;4&#093;)/60">6</td>
+<td data-sheets-value="&#091;null,2,&quot;Hours&quot;&#093;">Hours</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Money Spent on Issue Fixing&quot;&#093;">Money Spent on Issue Fixing</td>
+<td data-sheets-value="&#091;null,3,null,20&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;" data-sheets-formula="=sum(R&#091;-22&#093;C&#091;8&#093;:R&#091;-17&#093;C&#091;8&#093;)">$20.00</td>
+<td data-sheets-value="&#091;null,2,&quot;$USD&quot;&#093;">$USD</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Total Monetery Investment in the Project&quot;&#093;">Total Monetery Investment in the Project</td>
+<td data-sheets-value="&#091;null,3,null,135&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;&#093;" data-sheets-formula="=sum(R&#091;-45&#093;C&#091;8&#093;:R&#091;-25&#093;C&#091;8&#093;)">$135.00</td>
+<td data-sheets-value="&#091;null,2,&quot;$USD&quot;&#093;">$USD</td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot;Estimated Value of Man Hours (@$20/hour)&quot;&#093;">Estimated Value of Man Hours (@$20/hour)</td>
+<td data-sheets-value="&#091;null,3,null,478.33333333333337&#093;" data-sheets-numberformat="&#091;null,4,&quot;&#091;$$&#093;#,##0.00&quot;,1&#093;" data-sheets-formula="=(R&#091;-6&#093;C&#091;0&#093;+R&#091;-3&#093;C&#091;0&#093;)*20">$478.33</td>
+<td data-sheets-value="&#091;null,2,&quot;$USD&quot;&#093;">$USD</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td data-sheets-value="&#091;null,2,&quot; &quot;&#093;"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+</div></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="footertop">
+                <div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">About WPLMS</h4>			<div class="textwidget">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. 
+
+<h4>WPLMS : The Best LMS platform for WordPress</h4></div>
+		</div></div><div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">Popular Courses</h4><ul class="widget_course_list no-ajax">     
+	<li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/how-to-develop-mobile-apps/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/mobileapps1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mobileapps" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/mobileapps1-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/mobileapps1-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/mobileapps1-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">How to develop Mobile Apps</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">4.5</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="half"></span></div>( <strong itemprop="reviewCount">2</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 7 STUDENTS</div></span></h6></a></li><li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/starting-a-startup/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/startup11-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="startup1" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/startup11-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/startup11-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/startup11-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">Starting a Startup</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">5</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span></div>( <strong itemprop="reviewCount">1</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 7 STUDENTS</div></span></h6></a></li><li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/how-to-write-effectively/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="writing1" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">How to write effectively</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">4.5</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="half"></span></div>( <strong itemprop="reviewCount">2</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 7 STUDENTS</div></span></h6></a></li>	</ul>	</div></div>	<div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">Most Rated</h4><ul class="widget_course_list no-ajax">     
+	<li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/basic-of-nature-photography/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/photography31-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="photography3" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/photography31-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/photography31-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/photography31-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">Basic of Nature Photography</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">4</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span></span></div>( <strong itemprop="reviewCount">4</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 4 STUDENTS</div></span></h6></a></li><li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/how-to-write-effectively/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="writing1" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/writing11-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">How to write effectively</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">4.5</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="half"></span></div>( <strong itemprop="reviewCount">2</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 7 STUDENTS</div></span></h6></a></li><li itemscope itemtype="http://schema.org/Product"><a href="http://www.sigma-center.net/course/software-training/"><img width="150" height="150" src="http://www.sigma-center.net/wp-content/uploads/2014/02/softwaretraining1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="softwaretraining" srcset="http://www.sigma-center.net/wp-content/uploads/2014/02/softwaretraining1-150x150.jpg 150w, http://www.sigma-center.net/wp-content/uploads/2014/02/softwaretraining1-180x180.jpg 180w, http://www.sigma-center.net/wp-content/uploads/2014/02/softwaretraining1-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /><h6><em itemprop="name">Software Training</em><span><div class="star-rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+			<i class="hide" itemprop="ratingValue">4</i><span class="fill"></span><span class="fill"></span><span class="fill"></span><span class="fill"></span><span></span></div>( <strong itemprop="reviewCount">2</strong> REVIEWS )<div class="students"><i class="icon-users"></i> 11 STUDENTS</div></span></h6></a></li>	</ul>	</div></div>	<div class="col-md-3 col-sm-6"><div class="footerwidget">			<div class="textwidget"><img src="http://vibethemes.com/envato/wplms/wp-content/uploads/2014/02/banner-home.png" /></div>
+		</div></div>            </div>
+        </div>
+        <div class="row">
+            <div class="footerbottom">
+                <div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">Course Categories</h4><ul class="name"><li><a href="http://www.sigma-center.net/course-cat/technology/" title="View all Courses in Technology">Technology</a></li><li><a href="http://www.sigma-center.net/course-cat/photography-2/" title="View all Courses in Photography">Photography</a></li><li><a href="http://www.sigma-center.net/course-cat/language/" title="View all Courses in Language">Language</a></li><li><a href="http://www.sigma-center.net/course-cat/business/" title="View all Courses in Business">Business</a></li></ul></div></div><div class="col-md-3 col-sm-6"><div class="footerwidget"><div class="certificate_code_validator"><h4 class="footertitle">Certificate Code</h4><form action="http://www.sigma-center.net/default-certificate-template/" method="get"><input type="text" class="form_field" name="code" placeholder="Enter Certificate Code" /><input type="submit" class="button primary small" value="Validate" /></form>
+			  </div></div></div><div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">Tags</h4><div class="tagcloud"><a href='http://www.sigma-center.net/tag/tag1/' class='tag-link-15' title='5 topics' style='font-size: 20.218181818182pt;'>tag1</a>
+<a href='http://www.sigma-center.net/tag/tag2/' class='tag-link-16' title='6 topics' style='font-size: 22pt;'>tag2</a>
+<a href='http://www.sigma-center.net/tag/tag3/' class='tag-link-17' title='3 topics' style='font-size: 15.636363636364pt;'>tag3</a>
+<a href='http://www.sigma-center.net/tag/tag4/' class='tag-link-18' title='1 topic' style='font-size: 8pt;'>tag4</a>
+<a href='http://www.sigma-center.net/tag/tag5/' class='tag-link-19' title='5 topics' style='font-size: 20.218181818182pt;'>tag5</a>
+<a href='http://www.sigma-center.net/tag/tag6/' class='tag-link-20' title='2 topics' style='font-size: 12.581818181818pt;'>tag6</a>
+<a href='http://www.sigma-center.net/tag/tag7/' class='tag-link-21' title='4 topics' style='font-size: 18.181818181818pt;'>tag7</a></div>
+</div></div><div class="col-md-3 col-sm-6"><div class="footerwidget"><h4 class="footertitle">Who&#8217;s Online</h4>
+					<div class="avatar-block">
+									<div class="item-avatar">
+						<a href="http://www.sigma-center.net/members/admin/" title="admin"><img src="http://www.sigma-center.net/wp-content/themes/wplms/images/avatar.jpg" class="avatar user-1-avatar avatar-150 photo" width="150" height="150" alt="Profile picture of admin" /></a>
+					</div>
+							</div>
+		
+		</div></div>	            </div>
+        </div>
+    </div> 
+    <div id="scrolltop">
+        <a><i class="icon-arrow-1-up"></i><span>top</span></a>
+    </div>
+</footer>
+<div id="footerbottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <h2 id="footerlogo"><a href="http://www.sigma-center.net/"><img src="http://www.sigma-center.net/wp-content/uploads/2016/02/aigma-center-logo.png" alt="Sigma Center" /></a></h2>
+                            </div>
+            <div class="col-md-9">
+                                        <div id="footermenu">
+                            <ul id="menu-footer-menu" class="footermenu"><li id="menu-item-2008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2008"><a href="http://www.sigma-center.net/">Home</a></li>
+<li id="menu-item-2009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2009"><a href="http://www.sigma-center.net/about-2/">About</a></li>
+<li id="menu-item-2012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2012"><a href="http://www.sigma-center.net/services/">Services</a></li>
+<li id="menu-item-2010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2010"><a href="http://www.sigma-center.net/blog/">Blog</a></li>
+<li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2011"><a href="http://www.sigma-center.net/contact-us/">Contact Us</a></li>
+</ul>                        </div> 
+                                    </div>
+        </div>
+    </div>
+</div>
+</div><!-- END PUSHER -->
+</div><!-- END MAIN -->
+	<!-- SCRIPTS -->
+
+<!-- Generated in 1.095 seconds. (142 q) -->
+
+	<link rel='stylesheet' id='vc_google_fonts_deliusregular-css'  href='//fonts.googleapis.com/css?family=Delius%3Aregular&#038;ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/admin-bar.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.7-5693'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/js/jquery.knob.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/js/jquery.flexslider-min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/js/jquery.magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.18.1'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/js/jquery.fitvids.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.sigma-center.net\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vibe_shortcode_strings = {"sending_mail":"Sending mail","error_string":"Error :","invalid_string":"Invalid ","captcha_mismatch":"Captcha Mismatch"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-shortcodes/js/shortcodes.js?ver=1.0'></script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/select2/select2.min.js?ver=3.5.2'></script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.8'></script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.8'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-course-module/includes/js/course-module-js.min.js?ver=1.9.9'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/mediaelement/wp-mediaelement.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/droppable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View","too_short":"Too short","weak":"Weak","good":"Good","strong":"Strong"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/buddypress.js?ver=0.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vibe_course_module_strings = {"too_fast_answer":"Too Fast or Answer not marked.","answer_saved":"Answer Saved.","processing":"Processing...","saving_answer":"Saving Answer...please wait","remove_user_text":"This step is irreversible. Are you sure you want to remove the User from the course ?","remove_user_button":"Confirm, Remove User from Course","confirm":"Confirm","cancel":"Cancel","reset_user_text":"This step is irreversible. All Units, Quiz results would be reset for this user. Are you sure you want to Reset the Course for this User?","reset_user_button":"Confirm, Reset Course for this User","quiz_reset":"This step is irreversible. All Questions answers would be reset for this user. Are you sure you want to Reset the Quiz for this User? ","quiz_reset_button":"Confirm, Reset Quiz for this User","marks_saved":"Marks Saved","quiz_marks_saved":"Quiz Marks Saved","submit_quiz":"Submit Quiz","sending_messages":"Sending Messages ...","adding_students":"Adding Students to Course ...","successfuly_added_students":"Students successfully added to Course","unable_add_students":"Unable to Add students to Course","select_fields":"Please select fields to download","download":"Download","timeout":"TIMEOUT","theme_color":"#78c8c9","single_dark_color":"#232b2d","for_course":"for Course","active_filters":"Active Filters","clear_filters":"Clear all filters","remove_comment":"Are you sure you want to remove this note?","remove_comment_button":"Confirm, remove note","private_comment":"Make Private","add_comment":"Add your note","submit_quiz_error":"Please add questions or retake the quiz !","remove_announcement":"Are you sure you want to remove this Annoucement?","start_quiz_notification":"You're about to start the Quiz. Please click confirm to begin the quiz.","submit_quiz_notification":"Are you sure you want to submit the quiz. Submitting the quiz will freeze all your answers, you can not change them.  Please confirm.","check_results":"Check results","correct":"Correct","incorrect":"Incorrect","unanswered_questions":"You have few unanswered questions. Are you sure you want to continue ?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/vibe-course-module/includes/js/course.js?ver=1.9.9'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/wplms-front-end/front-end-editor/js/jquery.tipsy.js?ver=0.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpFee = {"ajaxUrl":"http:\/\/www.sigma-center.net\/wp-admin\/admin-ajax.php","homeUrl":"http:\/\/www.sigma-center.net\/","lock":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/wplms-front-end/front-end-editor/js/wp-fee-adminbar.js?ver=0.9.1'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/modernizr.custom.js?ver=4.4.2'></script>
+<script type='text/javascript' src='//www.sigma-center.net/wp-content/plugins/woocommerce/assets/js/chosen/chosen.jquery.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/sidebarEffects.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wplms_strings = {"wplms_woocommerce_validate":"Please fill in all the required fields (indicated by *)"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sigma-center.net/wp-content/themes/wplms/js/custom.js?ver=4.4.2'></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = true;
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item"  href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item"  href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item"  href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item"  href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/wp-admin/">Sigma Center</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/nav-menus.php">Menus</a>		</li>
+		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/themes.php?page=custom-background">Background</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/customize.php?url=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-_legacyoptions"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/admin.php?page=_legacyoptions"><span class="ab-icon dashicons-art"></span>Legacy Admin</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/update-core.php" title="4 Plugin Updates"><span class="ab-icon"></span><span class="ab-label">4</span><span class="screen-reader-text">4 Plugin Updates</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/edit-comments.php" title="0 comments awaiting moderation"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-link"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/link-add.php">Link</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-forum"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=forum">Forum</a>		</li>
+		<li id="wp-admin-bar-new-topic"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=topic">Topic</a>		</li>
+		<li id="wp-admin-bar-new-reply"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=reply">Reply</a>		</li>
+		<li id="wp-admin-bar-new-course"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=course">Course</a>		</li>
+		<li id="wp-admin-bar-new-unit"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=unit">Unit</a>		</li>
+		<li id="wp-admin-bar-new-quiz"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=quiz">Quiz</a>		</li>
+		<li id="wp-admin-bar-new-question"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=question">Question</a>		</li>
+		<li id="wp-admin-bar-new-wplms-assignment"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=wplms-assignment">Assignment</a>		</li>
+		<li id="wp-admin-bar-new-payments"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=payments">Payment</a>		</li>
+		<li id="wp-admin-bar-new-certificate"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=certificate">Certificate Template</a>		</li>
+		<li id="wp-admin-bar-new-product"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=product">Product</a>		</li>
+		<li id="wp-admin-bar-new-shop_order"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=shop_order">Order</a>		</li>
+		<li id="wp-admin-bar-new-shop_coupon"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=shop_coupon">Coupon</a>		</li>
+		<li id="wp-admin-bar-new-testimonials"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=testimonials">Testimonial</a>		</li>
+		<li id="wp-admin-bar-new-popups"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=popups">Popup</a>		</li>
+		<li id="wp-admin-bar-new-news"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post-new.php?post_type=news">News</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/user-new.php">User</a>		</li>
+		<li id="wp-admin-bar-ab-ls-add-new"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/admin.php?page=layerslider">LayerSlider</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://www.sigma-center.net/project-progress/edit/">Edit Page</a>		</li>
+		<li id="wp-admin-bar-vc_inline-admin-bar-link" class="vc_inline-link"><a class="ab-item"  href="http://www.sigma-center.net/wp-admin/post.php?vc_action=vc_inline&#038;post_id=2045&#038;post_type=page">Edit with Visual Composer</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://www.sigma-center.net/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/profile/edit/">Howdy, admin<img src="http://www.sigma-center.net/wp-content/themes/wplms/images/avatar.jpg" class="avatar user-1-avatar avatar-26 photo" width="26" height="26" alt="Profile photo of admin" /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://www.sigma-center.net/members/admin/profile/edit/"><img src="http://www.sigma-center.net/wp-content/themes/wplms/images/avatar.jpg" class="avatar user-1-avatar avatar-64 photo" width="64" height="64" alt="Profile photo of admin" /><span class='display-name'>admin</span><span class='username'>slfsqfjjkjgfdfgh</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/profile/edit/">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item"  href="http://www.sigma-center.net/wp-login.php?action=logout&#038;_wpnonce=96edfb58a7&#038;redirect_to=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F%3Floggedout%3Dtrue&#038;redirect_to=http%3A%2F%2Fwww.sigma-center.net">Log Out</a>		</li></ul><ul id="wp-admin-bar-my-account-buddypress" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-my-account-activity" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/activity/">Activity</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-activity-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-activity-personal"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/activity/">Personal</a>		</li>
+		<li id="wp-admin-bar-my-account-activity-mentions"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/activity/mentions/">Mentions</a>		</li>
+		<li id="wp-admin-bar-my-account-activity-favorites"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/activity/favorites/">Favorites</a>		</li>
+		<li id="wp-admin-bar-my-account-activity-friends"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/activity/friends/">Friends</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-xprofile" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/profile/">Profile</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-xprofile-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-xprofile-public"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/profile/public/">View</a>		</li>
+		<li id="wp-admin-bar-my-account-xprofile-edit"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/profile/edit/">Edit</a>		</li>
+		<li id="wp-admin-bar-my-account-xprofile-change-avatar"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/profile/change-avatar/">Change Profile Photo</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-notifications" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/notifications/">Notifications</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-notifications-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-notifications-unread"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/notifications/">Unread</a>		</li>
+		<li id="wp-admin-bar-my-account-notifications-read"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/notifications/read/">Read</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-messages" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/messages/">Messages</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-messages-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-messages-inbox"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/messages/inbox/">Inbox</a>		</li>
+		<li id="wp-admin-bar-my-account-messages-sentbox"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/messages/sentbox/">Sent</a>		</li>
+		<li id="wp-admin-bar-my-account-messages-compose"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/messages/compose/">Compose</a>		</li>
+		<li id="wp-admin-bar-my-account-messages-notices"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/messages/notices/">All Member Notices</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-friends" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/friends/">Friends</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-friends-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-friends-friendships"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/friends/">Friendships</a>		</li>
+		<li id="wp-admin-bar-my-account-friends-requests"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/friends/requests/">No Pending Requests</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-forums" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/forums/">Forums</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-forums-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-forums-topics"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/forums/topics/">Topics Started</a>		</li>
+		<li id="wp-admin-bar-my-account-forums-replies"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/forums/replies/">Replies Created</a>		</li>
+		<li id="wp-admin-bar-my-account-forums-favorites"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/forums/favorites/">Favorite Topics</a>		</li>
+		<li id="wp-admin-bar-my-account-forums-subscriptions"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/forums/subscriptions/">Subscribed Topics</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-my-account-settings" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/settings/">Settings</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-my-account-settings-default" class="ab-submenu">
+		<li id="wp-admin-bar-my-account-settings-general"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/settings/general/">General</a>		</li>
+		<li id="wp-admin-bar-my-account-settings-notifications"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/settings/notifications/">Email</a>		</li>
+		<li id="wp-admin-bar-my-account-settings-profile"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/settings/profile/">Profile</a>		</li></ul></div>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-bp-notifications" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://www.sigma-center.net/members/admin/notifications/"><span id="ab-pending-notifications" class="count no-alert">0</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-bp-notifications-default" class="ab-submenu">
+		<li id="wp-admin-bar-no-notifications"><a class="ab-item"  href="http://www.sigma-center.net/members/admin/notifications/">No new notifications</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://www.sigma-center.net/wp-login.php?action=logout&#038;_wpnonce=96edfb58a7&#038;redirect_to=http%3A%2F%2Fwww.sigma-center.net%2Fproject-progress%2F%3Floggedout%3Dtrue&#038;redirect_to=http%3A%2F%2Fwww.sigma-center.net">Log Out</a>
+					</div>
+
+		    
+</body>
+</html>
